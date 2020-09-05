@@ -95,3 +95,8 @@ Here is a brief list of some publications that we have used PHOIBLE data for:
   Oxford.
 
 A more complete list of research papers using PHOIBLE can be found on [Google Scholar](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=576981116309388928&as_sdt=5).
+
+# This are instructions on how to use the code:
+
+- listLang.py: Lists all the languages along with their phonemes after extracting from phoible.csv
+- cmpLang.py : Compare n languages to obtain the common phonemes
